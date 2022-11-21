@@ -1,0 +1,3 @@
+D:/IdeaProjects/ProjektPJC1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/IdeaProjects/ProjektPJC1/cmake-build-debug/CMakeFiles/ProjektPJC1.dir
+D:/IdeaProjects/ProjektPJC1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
